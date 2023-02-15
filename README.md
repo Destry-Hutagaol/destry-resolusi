@@ -1,2 +1,2 @@
 # destry-resolusi
-Repositori untuk menyimpan rencana destry kedepannya.
+Repositori untuk menyimpan rencana Destry Hutagaol kedepannya.
